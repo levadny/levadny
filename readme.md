@@ -4,18 +4,53 @@ Hi. I'm Konstantin Levadny, a software engineer and researcher specializing in e
 
 # Structure of projects
 
-My repositories follow a structured naming convention:
-- **donstu**  — My university courses in Don State Technical Univerity (DonSTU / donstu)
-  - donstu_os_*         - All for Operating Systems course
-  - donstu_os_lab_*     - Laboratory works for this course
-  - donstu_os_lec_*     - Lectures for this course
-  - donstu_os_syl_*     - Syllabus for this course
-  - donstu_automotive_* - Automotive Software Development
-- ghost_*   — Genetic & Heuristic Optimization Software Toolkit
-  - ghost_ga_*  — Genetic algorithms
-  - ghost_opt_* — Optimization problems & solvers
-- acana_*   — Automotive CAN Analyzer (diagnostics & visualization)
-  - acana_core_* — CAN/J1939 protocol core
-  - acana_ui_*   — GUI & signal visualization
+My repositories follow a structured naming convention: **sphere_subsphere_project_...**.
 
-# Public projects
+## Sphere: donstu
+
+My university courses in Don State Technical Univerity (DonSTU / donstu).
+  
+### Subsphere: donstu_os_
+All for Operating Systems course in Don State Technical University.
+
+|Full part of name|Projects|Details|
+|:---:|:---:|:---|
+|donstu_os_|lab_NN_*|Laboratory works for this course, NN - number of laboratory work and * - title of laboratory work|
+|donstu_os_|lec|Lectures for this course in one repository|
+|donstu_os_|syl|Syllabus for this course (description, lectures, laboratory works) in details|
+
+### Subsphere: donstu_automotive_   
+All for Automotive SW Development course in Don State Technical University.
+
+|Full part of name|Projects|Details|
+|:---:|:---:|:---|
+|donstu_automotive_|lab_NN_*|Laboratory works for this course, NN - number of laboratory work and * - title of laboratory work|
+|donstu_automotive_|lec|Lectures for this course in one repository|
+|donstu_automotive_|syl|Syllabus for this course (description, lectures, laboratory works) in details|
+
+### Subsphere: donstu_toolkit_ 
+All for Auxiliary Toolkits for Developers course in Don State Technical University.
+
+|Full part of name|Projects|Details|
+|:---:|:---:|:---|
+|donstu_toolkit_|lab_NN_*|Laboratory works for this course, NN - number of laboratory work and * - title of laboratory work|
+|donstu_toolkit_|lec|Lectures for this course in one repository|
+|donstu_toolkit_|syl|Syllabus for this course (description, lectures, laboratory works) in details|
+
+## Sphere: ghost
+
+My projects for "GeneticAlgorithms for Harvester Optimization System with Tensor (GHOST)". 
+  
+### Subsphere: ghost_ga
+
+Main project for Genetic Algorithm in GHOST library. 
+
+# My contacts
+
+Web: [levadny.com](https://levadny.com) & [blog.levadny.com](https://blog.levadny.com)
+
+Telegram: [@konstantinlevadny](https://t.me/konstantinlevadny)
+
+LinkedIn: [@levadny](https://linkedin.com/in/levadny)
+
+e-mail: [konstantin@levadny.com](mailto:konstantin@levadny.com)
